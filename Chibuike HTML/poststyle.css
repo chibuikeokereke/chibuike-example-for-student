@@ -1,0 +1,18 @@
+.background-image{
+    background-image: url("img\Screenshot_20240104-203629_1.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 80vw;
+}
+
+.Me{
+    color: hsl(0, 100%, 100%);
+    font-weight: 40%;
+    font-size: 50px;
+}
+
+.inserted{
+    width: 20px;
+}
